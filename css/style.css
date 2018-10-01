@@ -10,6 +10,6 @@ h1 { margin-top: 100px; text-align: center; font-family: 'Bai Jamjuree'; }
 
 .button_twiiter { display: -ms-flexbox; display: flex; -ms-flex-direction: row; flex-direction: row; margin: 20px; width: 300px; height: 40px; border: solid 1px white; text-align: center; -ms-flex-pack: center; justify-content: center; -ms-flex-align: center; align-items: center; color: white; }
 
-.button_twiiter a { padding: 20px; color: white; text-decoration: none; position: absolute; width: 300px; height: 40px; }
+.button_twiiter a { padding: 20px; color: white; text-decoration: none; width: 300px; height: 40px; }
 
-.button_twiiter i { color: white; padding: 15px 15px 15px 0; position: relative; }
+.button_twiiter i { color: white; padding: 15px 15px 15px 0; }
