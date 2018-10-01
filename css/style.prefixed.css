@@ -1,0 +1,77 @@
+body {
+  margin: 0 auto;
+  padding: 0 auto;
+  background-color: #2176f5;
+  color: white;
+}
+
+h1 {
+  margin-top: 100px;
+  text-align: center;
+  font-family: 'Bai Jamjuree';
+}
+
+.box {
+  padding-top: 30px;
+  text-align: center;
+  font-size: 14px;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+.trigger {
+  width: 300px;
+  height: 40px;
+  background-color: #2176f5;
+  font-size: 14px;
+  color: white;
+}
+
+.button_box {
+  margin: 50px;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-direction: column;
+      flex-direction: column;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -ms-flex-pack: center;
+      justify-content: center;
+  -ms-flex-line-pack: stretch;
+      align-content: stretch;
+  -ms-flex-align: center;
+      align-items: center;
+  font-size: 14px;
+}
+
+.button_twiiter {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-direction: row;
+      flex-direction: row;
+  margin: 20px;
+  width: 300px;
+  height: 40px;
+  border: solid 1px white;
+  text-align: center;
+  -ms-flex-pack: center;
+      justify-content: center;
+  -ms-flex-align: center;
+      align-items: center;
+  color: white;
+}
+
+.button_twiiter a {
+  padding: 20px;
+  color: white;
+  text-decoration: none;
+  position: absolute;
+  width: 300px;
+  height: 40px;
+}
+
+.button_twiiter i {
+  color: white;
+  padding: 15px 15px 15px 0;
+  position: relative;
+}
+/*# sourceMappingURL=style.prefixed.css.map */
